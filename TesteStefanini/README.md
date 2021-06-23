@@ -1,5 +1,5 @@
 ## ***Automação Web***
-Projeto criado como um desafio para automatizar plataforma web proposto pela empresa Keeggo.
+Projeto criado como um desafio para automatizar plataforma web proposto pela empresa Stefanini.
 <p> <br />
 
 
@@ -43,10 +43,5 @@ Após a execução será criado um diretório na raíz do projeto de nome screen
  
 
  
-### ***Melhorias a se Fazer***
-
-Critério de aceite do telefone poderia estar com uma regra para aceitar 2 dígitos de ddd + de 8 a 9 caracteres
-Critério de aceite do Estado poderia ser mais de 10 caracteres ou limitar a 2 para incluir apenas a sigla.
-
 
 
